@@ -1,4 +1,4 @@
-Employee Attrition
+![image](https://github.com/Gudiya29/Employee-Attrition/assets/96307919/910ff7f6-2aee-421c-9b6d-84414ad50dc1)Employee Attrition
 
 
 Problem Statement:
@@ -17,3 +17,6 @@ AIM OF PROJECT: To help a company understand the attrition in their organization
 Overview of project: Exploratory data analysis of an attrition survey conducted. Built a model to calculate the attrition rate in an organisation.
 
 Exploratory Data Analysis : Exploratory Data Analysis is an initial process of analysis, in which we can summarize characteristics of data such as pattern, trends, outliers, and hypothesis testing using descriptive statistics and visualization.
+
+
+![Uploading image.png…]()
